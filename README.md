@@ -24,4 +24,10 @@ A classic Snake Game built using Python's `turtle` module.
 1. Make sure Python 3 is installed.
 2. Clone the repository:
    ```bash
-3. Run python main.py
+   git clone https://github.com/Sathya2204/Classic-Snake-Game-with-Python-Turtle.git
+   cd snake-game
+3. Run the game:
+   python main.py
+
+
+      
